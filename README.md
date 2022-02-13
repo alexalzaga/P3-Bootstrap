@@ -20,4 +20,7 @@ Respecto a la práctica anterior, se ha mantenido la estructura de la site pero 
 **Acciones (acciones.html)**
 - Cambiado el estilo de la tabla usando Bootstrap.
 
+**Nota***
+Además de lo mencionado, se trabaja con alguna clase de typography de Bootstrap (e.g. text-muted en el footer). Debido a la disposición del site no tenía hueco con sentido implementar objetos de paginación, aunque como he mencionado se han añadido diversos elementos extra en su lugar, como el collapse o las cards.
+
 # Link: https://alexalzaga.github.io/P3-Bootstrap/
